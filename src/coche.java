@@ -5,4 +5,5 @@ class Coche{
 	private numPuertas;
 	private numPasajerosMax;
 	public const acelGravedad = 9.8;
+	private int pesoToneladas;
 }
